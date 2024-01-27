@@ -1,4 +1,4 @@
 # Demo-Repos
 This is my first Git Repository.
 <br>
-Author - Kishan Rai
+Author - Kishan (React Developer)
